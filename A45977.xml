@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for the better observation of the Lords-day commonly called Sunday.</title>
+            <title>Public General Acts. 1695. 7 Wil.III.c.17.</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45977</idno>
+            <idno type="STC">Wing I310</idno>
+            <idno type="STC">ESTC R216037</idno>
+            <idno type="EEBO-CITATION">99827790</idno>
+            <idno type="PROQUEST">99827790</idno>
+            <idno type="VID">32213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32213)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1852:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for the better observation of the Lords-day commonly called Sunday.</title>
+                  <title>Public General Acts. 1695. 7 Wil.III.c.17.</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Crook, printer to the Kings Most Excellent Majesty, on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Enacted: Public General Acts, 1695. 7 Wil.III.c.17.</note>
+                  <note>Running title reads: Anno regni septimo Gulielmi Tertii.</note>
+                  <note>Reproduction of the original in the National Library of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sunday legislation --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32213:1"/>
+            <pb facs="tcp:32213:1"/>
+            <p>AN ACT For the Better Obſervation of the LORDS-DAY, Commonly Called SUNDAY.</p>
+            <figure/>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Andrew Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, on <hi>Ormonde-Key,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:32213:2"/>
+            <pb n="3" facs="tcp:32213:2"/>
+            <head>An Act for the Better Obſervation of the <hi>Lords Day,</hi> Commonly called <hi>Sunday.</hi> CHAP. XVII.</head>
+            <p>FOR the Better Obſervation and Keép<g ref="char:EOLhyphen"/>ing Holy the <hi>Lords-Day,</hi> Commonly cal<g ref="char:EOLhyphen"/>led <hi>Sunday,</hi>
+            </p>
+            <p>Be it Enacted by the King's Moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, by and with the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in this preſent Parliament Aſ<g ref="char:EOLhyphen"/>ſembled; and by the Authority of the ſame, That all and Every Perſon and Perſons what<g ref="char:EOLhyphen"/>ſoever, ſhall on Every <hi>Lords-Day</hi> apply themſelves to the Obſervation of the ſame, by Exerciſing themſelves thereon in the Duties of Piety and True Religion, Publickly and Privately: And that no Tradeſman, Artificer, Workman, La<g ref="char:EOLhyphen"/>bourer, or other Perſon whatſoever, ſhall Do or Exerciſe any Wordly Labour, Buſineſs or Work of their Ordinary Callings upon the <hi>Lords-Day,</hi> or any part thereof (Works of Neceſſity and Charity only Excepted.) And that Every Per<g ref="char:EOLhyphen"/>ſon being of the Age of Fourteén Years, or Vp<g ref="char:EOLhyphen"/>wards, Offending in the Premiſſes, ſhall for E<g ref="char:EOLhyphen"/>very ſuch Offence Forfeit the Sum of Five Shil<g ref="char:EOLhyphen"/>lings. And that no Perſon or Perſons what<g ref="char:EOLhyphen"/>ſoever ſhall Publickly Cry, Shew Forth, or Ex<g ref="char:EOLhyphen"/>poſe to Sale any Wares, Merchandizes, Fruit, Herbs, Goods or Chattles whatſoever upon the <hi>Lords-Day,</hi> or any part thereof, upon pain that Every Perſon ſo Offending ſhall Forfeit the
+<pb n="4" facs="tcp:32213:3"/>
+ſame Goods ſo Cryed, or Shewed Forth, or Expoſed to Sale.</p>
+            <p>And it is further Enacted, That no Drover, Horſe-Courſer, Waggoner, Carryer, Butcher, Higler, their or any of their Servants, ſhall Tra<g ref="char:EOLhyphen"/>vell, or come into his or their Inn, or Lodging upon the Lords-Day, or any part thereof, upon pain that Each and Every ſuch Offender ſhall Forfeit Twenty Shillings for ſuch Offence: And for prevention of Diſorders and Breaches of the Peace, which commonly happen in Divers parts of the Kingdom, by reaſon of Tumultu<g ref="char:EOLhyphen"/>ous and Diſorderly Meétings, which have beén, and frequently are, uſed on the Lords-Day, Com<g ref="char:EOLhyphen"/>monly called <hi>Sunday,</hi> under pretence of Hurling, Commoning, Foot-Ball-Playing, Cudgells, Wreſtling, or other Sports.</p>
+            <p>Be it further Enacted, by the Authority aforeſaid, That no Perſon or Perſons whatſoever, ſhall Play, Vſe, or Exerciſe any Hurling, Commoning, Foot-Ball-Playing, Cudgells, Wreſtling, or any other Games, Paſtimes, or Sports on the Lords-Day, or any part thereof. And if any Perſon or Perſons ſhall Offend therein, and be thereof Convicted in ſuch manner as herein after Dire<g ref="char:EOLhyphen"/>cted; Every ſuch Perſon and Perſons ſhall Forfeit the Summ of Twelve-pence, <hi>ſterl.</hi> for Every ſuch Offence, to be immediately paid to ſuch Iuſtice of the Peace, Officer or Officers, before whom ſuch Conviction ſhall be. And that if any Perſon Offending againſt this Act, or any thing therein Contained, ſhall be thereof Con<g ref="char:EOLhyphen"/>victed before any Iuſtice of the Peace of the County, or of the Chief Officer of Officers, or any Iuſtice of the Peace, of, or within any Ci<g ref="char:EOLhyphen"/>ty,
+<pb n="5" facs="tcp:32213:3"/>
+Burrough, or Town Corporate, where the ſaid Offence ſhall be Committed upon his or their View, or Confeſſion of the Party, or proof of any one, or more Witneſſes, by Oath, which the ſaid Iuſtices, Chief Officer or Officers is by this Act Authorized to Adminiſter: The ſaid Iu<g ref="char:EOLhyphen"/>ſtice, or Chief Officer or Officers ſhall Give War<g ref="char:EOLhyphen"/>rant under his or their Hand and Seal to the Conſtables or Church-Wardens of the Pariſh or Pariſhes where ſuch Offence ſhall be Commit<g ref="char:EOLhyphen"/>ted, to Seize the ſaid Goods Cryed, Shewed Forth, or put to Sale, as aforeſaid; And to Sell the ſame: And to Levy the ſaid other Forfei<g ref="char:EOLhyphen"/>tures or Penalties, by way of Diſtreſs and Sale of the Goods of Every ſuch Offender Di<g ref="char:EOLhyphen"/>ſtrained, rendring to the ſaid Offender the O<g ref="char:EOLhyphen"/>verplus of the Monies Raiſed thereby. And in Default of ſuch Diſtreſs, or in Caſe of Inſuf<g ref="char:EOLhyphen"/>ficiency, or Inability of the ſaid Offender to pay the ſaid Forfeitures and Penalties, That then the Party Offending be Set Publickly in the Stocks by the ſpace of two Hours, and all and ſin<g ref="char:EOLhyphen"/>gular the Forfeitures or Penalties aforeſaid, ſhall be Imployed and Converted to the uſe of the Poor of the Pariſh where the ſaid Offences ſhall be Com<g ref="char:EOLhyphen"/>mitted, ſaving only that it ſhall and may be Law<g ref="char:EOLhyphen"/>ful to and for any Iuſtice, Mayor, or Head Officer or Officers, out of the ſaid Forfeitures or Penalties; to Reward any Perſon or Perſons that ſhall In<g ref="char:EOLhyphen"/>form of any Offence againſt this Act, according to their Diſcretions; ſo as ſuch Reward Exceéd not the third part of the Forfeitures or Penalties.</p>
+            <p>Provided that nothing in this Act Contained ſhall Extend to the Prohibiting of Dreſſing Meat in Fa<g ref="char:EOLhyphen"/>milies, or Dreſſing or Selling of Meat in Inns,
+<pb n="6" facs="tcp:32213:4"/>
+Cooks-Shops, or Victualling-Houſes, for ſuch as otherwiſe cannot be provided: Nor the Crying or Selling of Milk or Fiſh before Ten of the Clock in the Morning, or after Four of the Clock in the Afternoon; Nor to the Vſing of Hackney-Coaches in or about the City of <hi>Dublin.</hi>
+            </p>
+            <p>Provided alſo that no perſon or perſons ſhall be Impeached, Proſecuted or Moleſted for any Offence before-mentioned in this Act, unleſs he or they be Proſecuted for the ſame within Ten Days after the Offence Committed.</p>
+            <p>Provided; And be it further Enacted, by the Authority aforeſaid, That if any perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever, which ſhall Travell on the Lord's-Day, ſhall be then Robbed, that no Hun<g ref="char:EOLhyphen"/>dred, or the Inhabitants thereof, ſhall be Char<g ref="char:EOLhyphen"/>ged with, or Anſwerable for any Robbery ſo Committed; but the perſon or perſons ſo Rob<g ref="char:EOLhyphen"/>bed ſhall be harred from bringing any Action for the ſaid Robbery, Any Law to the Con<g ref="char:EOLhyphen"/>trary Notwithſtanding.</p>
+            <p>Nevertheleſs the Inhabitants of the Coun<g ref="char:EOLhyphen"/>ties, Hundreds, or Baronies, after Notice of any ſuch Robbery to them, or ſome of them given; or after Huy and Cry for the ſame to be brought, ſhall make, or Cauſe to be made, freſh Suite and Purſuite after the Offenders, with Horſe<g ref="char:EOLhyphen"/>men and Foot-men, according to the Statute made in the Tenth Year of the Reign of King <hi>CHARLES the Firſt,</hi> upon pain of Forfeiting to the King's Majeſty, His Heirs and Succeſ<g ref="char:EOLhyphen"/>ſors, as much Money as might have béen Reco<g ref="char:EOLhyphen"/>vered againſt the ſaid Hundred or Barony, by the Party Robbed, as if this Law had not beén made.</p>
+            <p>
+               <pb n="7" facs="tcp:32213:4"/>Provided alſo, and be it Enacted, That no perſon or perſons upon the Lord's-Day, Commonly called <hi>Sunday,</hi> ſhall Serve, or Execute, or Cauſe to be Served or Executed, any Writt, Proceſs, Warrant, Order, Iudg<g ref="char:EOLhyphen"/>ment, or Decreé (Except in Caſes of Treaſon, Felony, or Breach of the Peace) But that the Service of Every ſuch Writt, Proceſs, Warrant, Order, Iudgment or Decreé, ſhall be Void to all Intents and Purpoſes whatſoever; And the perſon and perſons ſo Serving or Executing the ſame ſhall be as Lyable to the Suite of the Party grieved, and to Anſwer Damage to him for Doing thereof, as if he or they had done the ſame without any Writt, Proceſs, Warrant, Order, Iudgment or Decreé at all. And for the better preventing, Drinking and Intempe<g ref="char:EOLhyphen"/>rance on the Lord's-Day, Commonly called <hi>Sunday.</hi>
+            </p>
+            <p>Be it alſo Enacted by the Authority aforeſaid, That no Keéper of any Tavern, Ale-Houſe or publick Victualling-Houſe, ſhall Receive, Enter<g ref="char:EOLhyphen"/>tain or permit to remain in his Houſe any per<g ref="char:EOLhyphen"/>ſon or perſons, During the Time of Divine Ser<g ref="char:EOLhyphen"/>vice, Except thoſe who are of their own Family, or Lodgers in the ſaid Houſe; or furniſh them with Wine, Ale, Beér, or other Liquor of any ſort, upon the penalty of Forfeiting of Ten Shilings for Every ſuch Offence, to be paid by Every ſuch Keéper of Taverns, Ale-Houſes, or Publick Victualling-Houſes; and alſo of the ſum of Five Shillings to be Forfeited by Every ſuch perſon or perſons who ſhall Enter or Remain in ſuch Taverns, Ale-Houſes, or Victualling-Houſes, Contrary to this Act.</p>
+            <p>
+               <pb n="8" facs="tcp:32213:5"/>And for the better Execution thereof all Con<g ref="char:EOLhyphen"/>ſtables and Church-Wardens of Pariſhes, with<g ref="char:EOLhyphen"/>in the ſeveral Cities and Towns Corporate within this Realm, are Commanded and Requi<g ref="char:EOLhyphen"/>red Frequently, and as often as they have Rea<g ref="char:EOLhyphen"/>ſonable Cauſe ſo to Do, to Enter into all Ta<g ref="char:EOLhyphen"/>verns, Ale-Houſes, and Victualling-Houſes, with<g ref="char:EOLhyphen"/>in their Pariſhes or Diſtricts, where they ſhall Reaſonably ſuſpect any perſon to be and Remain, Contrary to the Intent of this preſent Act: And to Apprehend ſuch perſons as they ſhall find or Reaſonably ſuſpect to be Offenders againſt the ſame: And alſo the Maſter or Keéper of ſuch Houſe where ſuch Offenders ſhall be Apprehend<g ref="char:EOLhyphen"/>ed; and them in Cuſtody to Carry before the next, or ſome other, Iuſtice of Peace near the place where ſuch perſon ſhall be Apprehended; which Iuſtice or Iuſtices of the Peace are here<g ref="char:EOLhyphen"/>by Impowred to Examine Witneſſes upon Oath touching the Breach of this Law: And after Examination to proceéd to a Conviction or Ac<g ref="char:EOLhyphen"/>quittal of the perſons Accuſed, which ſhall be Final to all Parties. And if ſuch Iuſtice or Iuſtices of the Peace ſhall upon proof Convict the per<g ref="char:EOLhyphen"/>ſons Accuſed to have Offended againſt this Law, the ſaid Iuſtice of Peace ſhall forthwith Demand from ſuch Offenders the Penalties on them In<g ref="char:EOLhyphen"/>tended to be Impoſed by this Act, and to Re<g ref="char:EOLhyphen"/>ceive the ſame; and in Default of payment, to Commit the Offender to the Goal of the ſaid County, till he ſhall have made payment of the ſame; which Summ ſo paid and Received ſhall be Applyed to the Vſe of the Poor of the Re<g ref="char:EOLhyphen"/>ſpective Pariſhes where ſuch Offences have beén or ſhall be Committed.</p>
+            <p>
+               <pb n="9" facs="tcp:32213:5"/>Provided nothing herein Contained ſhall Ex<g ref="char:EOLhyphen"/>tend to Perſons who have beén in any Inns before the Lords-Day, Commonly Called <hi>Sunday,</hi> and Deſign to Abide there on <hi>Sunday:</hi> But it ſhall and may be Lawful for ſuch perſons to Continue and Remain in ſuch Inns and Pub<g ref="char:EOLhyphen"/>lick Houſes, as if this Act hade never beén made.</p>
+            <p>Provided always that this Act ſhall Com<g ref="char:EOLhyphen"/>mence and Take Effect on the Firſt Day of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> in the Year of Our Lord, One Thou<g ref="char:EOLhyphen"/>ſand Six Hundred Ninety Five, and not before.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
